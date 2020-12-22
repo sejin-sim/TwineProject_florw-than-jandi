@@ -6,3 +6,5 @@
 2. 관련 동영상
 <iframe width="640" height="360" src="https://youtu.be/xlCfytY66UA"  
  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+ 
+ [![Video Label](https://youtu.be/xlCfytY66UA/0.jpg)](https://youtu.be/xlCfytY66UA)
