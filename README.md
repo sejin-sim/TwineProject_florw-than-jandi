@@ -4,7 +4,5 @@
 
 1. **프로젝트명 : 꽃보다 잔디**
 2. 관련 동영상
-<iframe width="640" height="360" src="https://youtu.be/xlCfytY66UA"  
- frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
- 
- [![Video Label](https://youtu.be/xlCfytY66UA/0.jpg)](https://youtu.be/xlCfytY66UA)
+[![예제](http://img.youtube.com/xlCfytY66UA/0.jpg)](https://youtube.com/xlCfytY66UA?t=0s)
+[![Video Label](http://img.youtube.com/vi/xlCfytY66UA/0.jpg)](https://youtu.be/xlCfytY66UA?t=0s)
